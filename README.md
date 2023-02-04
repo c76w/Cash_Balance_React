@@ -1,5 +1,5 @@
 # Cash Balance - React & Redux
-A cash Balance web page using React and Redux.
+A cash balance web page using React and Redux.
 
 This project was to create a cash balance web page in React that used Redux to manage the state.
 
